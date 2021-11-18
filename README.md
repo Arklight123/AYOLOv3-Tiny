@@ -9,4 +9,4 @@ Python 3.7<br>
 # To test
 Run test.py<br>
 The configration does not need to be changed. All you need is to change "data/test.txt".<br>
-The dataset has been uploaded to...
+The dataset has been uploaded to https://drive.google.com/file/d/1E9FOB6rZr3ZJYq2Hpyxyh5tdP_n6w_9m/view?usp=sharing
