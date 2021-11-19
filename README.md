@@ -13,5 +13,3 @@ Download the dataset and then put it in a right place.<br>
 Run test.py<br>
 # To detect
 Put your images in "data/samples", and then run detect.py. The resluts are shown in output.<br>
-## Contact us
-If you have any problems, welcome to email us at yaojiahui3088@gmail.com
